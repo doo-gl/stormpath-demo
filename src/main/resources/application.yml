@@ -1,0 +1,8 @@
+stormpath:
+  client:
+    apiKey:
+      id: 30LBYG9HMWBQ3N3LQHDTWG157
+      secret: hWp9HvgV9Q/TDHtoxlpP9QS4RlJOt9wLO+WoSrK2BVQ
+  spring:
+    security:
+      enabled: true
